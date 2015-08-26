@@ -2,10 +2,10 @@
 Send mails from windows app
 
 
-<h2>Envi</h2>
+<h2>Env</h2>
 Works on windows since it is a windows app
 
-</h2> Appearance</h2>
+<h2> Appearance</h2>
 <img src='http://i.imgur.com/NUGizQu.png' />
 
 <h2> Usage </h2>
