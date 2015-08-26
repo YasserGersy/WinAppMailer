@@ -1,0 +1,10 @@
+c:\users\yassergersy\documents\visual studio 2013\Projects\Mailer\Mailer\obj\Debug\Mailer.csprojResolveAssemblyReference.cache
+c:\users\yassergersy\documents\visual studio 2013\Projects\Mailer\Mailer\obj\Debug\Mailer.Form1.resources
+c:\users\yassergersy\documents\visual studio 2013\Projects\Mailer\Mailer\obj\Debug\Mailer.Properties.Resources.resources
+c:\users\yassergersy\documents\visual studio 2013\Projects\Mailer\Mailer\obj\Debug\Mailer.csproj.GenerateResource.Cache
+c:\users\yassergersy\documents\visual studio 2013\Projects\Mailer\Mailer\bin\Debug\Mailer.exe
+c:\users\yassergersy\documents\visual studio 2013\Projects\Mailer\Mailer\bin\Debug\Mailer.pdb
+c:\users\yassergersy\documents\visual studio 2013\Projects\Mailer\Mailer\obj\Debug\Mailer.exe
+c:\users\yassergersy\documents\visual studio 2013\Projects\Mailer\Mailer\obj\Debug\Mailer.pdb
+c:\users\yassergersy\documents\visual studio 2013\Projects\Mailer\Mailer\bin\Debug\Mailer.exe.config
+c:\users\yassergersy\documents\visual studio 2013\Projects\Mailer\Mailer\obj\Debug\Mailer.SelectSmtp.resources
